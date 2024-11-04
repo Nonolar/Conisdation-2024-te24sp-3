@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System.Text;
 
 string gameUrl = "https://api.considition.com/";
-string apiKey = "";
+string apiKey = File.ReadAllText(@"..\..\..\Key");
 string mapFile = "Map.json";
 
 HttpClient client = new();
@@ -68,6 +68,7 @@ List<Customer> activeCustomers = new List<Customer>();
 
 foreach (Customer customer in mapData.customers)
 {
+
     //The basic interestRate
     decimal interestRate = personality.ToList().Find(n => n.name.ToLower() == customer.personality.ToLower()).acceptedMaxInterest/2;
 
@@ -100,6 +101,7 @@ foreach (Customer customer in mapData.customers)
     }
     else
     {
+
         activeCustomers.Add(customer);
         input.Proposals.Add(new CustomerLoanRequestProposal()
         {
@@ -109,7 +111,9 @@ foreach (Customer customer in mapData.customers)
         });
     }
 
+
     
+
 
     
 }
@@ -136,6 +140,7 @@ for (int i = 0; i < mapData.gameLengthInMonths; i++)
         string randomType = actionTypes[random.Next(actionTypes.Length)];
         string randomAward = randomType == "Skip" ? "None" : awardTypes[random.Next(awardTypes.Length)];
 
+
         if (customer.loan.environmentalImpact < 50)
         {
             randomAward = random.Next(0, 2) == 1 ? "NoInterestRate" : "HalfInterestRate";
@@ -148,6 +153,7 @@ for (int i = 0; i < mapData.gameLengthInMonths; i++)
 
 
         
+
         t.Add(customer.name, new CustomerAction
         {
             Type = randomType,
@@ -165,6 +171,7 @@ request.Content = new StringContent(JsonConvert.SerializeObject(input), Encoding
 var res = client.Send(request);
 Console.WriteLine(res.StatusCode);
 Console.WriteLine(await res.Content.ReadAsStringAsync());
+
 
 
 class personality
