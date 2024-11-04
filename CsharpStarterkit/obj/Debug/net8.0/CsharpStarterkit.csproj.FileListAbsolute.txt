@@ -1,0 +1,58 @@
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CopyComplete
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.sourcelink.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CopyComplete
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpSt.CC410BEA.Up2Date
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Users\08noelar\source\repos\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll

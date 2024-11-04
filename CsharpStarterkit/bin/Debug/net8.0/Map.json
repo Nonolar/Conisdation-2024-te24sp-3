@@ -1,0 +1,82 @@
+{
+  "name": "Gothenburg",
+  "budget": 10000000,
+  "gameLengthInMonths": 24,
+  "customers": [
+    {
+      "name": "Gordon",
+      "loan": {
+        "product": "Vacationhome",
+        "environmentalImpact": 25.0,
+        "amount": 800000.00
+      },
+      "personality": "Conservative",
+      "capital": 500000.00,
+      "income": 30000.00,
+      "monthlyExpenses": 3000.00,
+      "numberOfKids": 3,
+      "homeMortgage": 0.0,
+      "hasStudentLoan": false
+    },
+    {
+      "name": "Glenn",
+      "loan": {
+        "product": "Dieselcar",
+        "environmentalImpact": 0.0,
+        "amount": 300000.00
+      },
+      "personality": "RiskTaker",
+      "capital": 20000.00,
+      "income": 5000.00,
+      "monthlyExpenses": 4000.00,
+      "numberOfKids": 0,
+      "homeMortgage": 0.0,
+      "hasStudentLoan": true
+    },
+    {
+      "name": "Kim",
+      "loan": {
+        "product": "Festival",
+        "environmentalImpact": 100.0,
+        "amount": 2000.00
+      },
+      "personality": "Innovative",
+      "capital": 1500.00,
+      "income": 12000.00,
+      "monthlyExpenses": 6000.00,
+      "numberOfKids": 0,
+      "homeMortgage": 0.0,
+      "hasStudentLoan": true
+    },
+    {
+      "name": "Emil",
+      "loan": {
+        "product": "Electricbike",
+        "environmentalImpact": 75,
+        "amount": 20000.00
+      },
+      "personality": "Practical",
+      "capital": 10000.00,
+      "income": 40000.00,
+      "monthlyExpenses": 15000.00,
+      "numberOfKids": 0,
+      "homeMortgage": 0.0,
+      "hasStudentLoan": false
+    },
+    {
+      "name": "Ada",
+      "loan": {
+        "product": "Motorboat",
+        "environmentalImpact": 0.0,
+        "amount": 250000.00
+      },
+      "personality": "Spontaneous",
+      "capital": 70000.00,
+      "income": 45000.00,
+      "monthlyExpenses": 35000.00,
+      "numberOfKids": 2,
+      "homeMortgage": 0.0,
+      "hasStudentLoan": false
+    }
+  ]
+}
